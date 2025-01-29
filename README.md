@@ -1,15 +1,14 @@
 # Dungeon Buddy
 
-Dungeon buddy is a Discord bot built with [DiscordJS](https://discord.js.org/) exclusively for the
-[No Pressure](https://discord.gg/nopressureeu) discord server.
+Dungeon buddy is a Discord bot built with DiscordJS originally built for the No Pressure discord server, and adapted to be used by Crits (EU).
 
 It allows for an interactive group building experience, where members can create groups, join groups, and leave groups.
 The bot also provide information on the group, such as the dungeon, keystone level and the roles required. All
 information is updated in real-time so there shouldn't be any confusion on who is in the group.
 
 When a member joins the group, they receive a randomly generated passphrase (unique to the group) which they can attach
-as a 'note' in-game. This confirms they are from the NoP Discord and is used to prevent any bad actors from sneaking
-into NoP groups and trolling.
+as a 'note' in-game. This confirms they are from the Crits Discord and is used to prevent any bad actors from sneaking
+into Crits groups and trolling.
 
 ## Commands
 
